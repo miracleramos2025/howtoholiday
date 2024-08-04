@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/howtoholiday/static/css/main.78019513.css",
+    "main.js": "/howtoholiday/static/js/main.13fe9318.js",
+    "static/media/event_2.jpeg": "/howtoholiday/static/media/event_2.28e10517a9281a3a428f.jpeg",
+    "static/media/baking_2.jpg": "/howtoholiday/static/media/baking_2.a4a9625051ac333db9e4.jpg",
+    "static/media/baking_1.png": "/howtoholiday/static/media/baking_1.cacd63c2dfd495b30084.png",
+    "static/media/home_4.jpeg": "/howtoholiday/static/media/home_4.0d9b30f257a1654220ce.jpeg",
+    "static/media/event_1.webp": "/howtoholiday/static/media/event_1.f624a8bde9a0cf4605e0.webp",
+    "static/media/decor_2.jpeg": "/howtoholiday/static/media/decor_2.1bc6324238fc8a67ed9e.jpeg",
+    "static/media/home_3.webp": "/howtoholiday/static/media/home_3.5f9478dab70024cae902.webp",
+    "static/media/home_1.jpeg": "/howtoholiday/static/media/home_1.5da4144f900442a6175c.jpeg",
+    "static/media/movie_2.jpeg": "/howtoholiday/static/media/movie_2.54618b819436861803c0.jpeg",
+    "static/media/movie_3.jpeg": "/howtoholiday/static/media/movie_3.10372a06c32d3de7c49a.jpeg",
+    "static/media/movie_1.jpeg": "/howtoholiday/static/media/movie_1.b69797d486f95c36d59c.jpeg",
+    "static/media/music_2.png": "/howtoholiday/static/media/music_2.1123bf7dd46b3c33223c.png",
+    "static/media/home_2.jpeg": "/howtoholiday/static/media/home_2.78d09e6d3fd0d5dae1b1.jpeg",
+    "static/media/music_1.jpeg": "/howtoholiday/static/media/music_1.0c80d6abe000e440bf7e.jpeg",
+    "static/media/contact.jpg": "/howtoholiday/static/media/contact.f66814ab9a093db8bdd1.jpg",
+    "static/media/music_3.jpeg": "/howtoholiday/static/media/music_3.306166eab98fac0f6070.jpeg",
+    "static/media/decor_1.avif": "/howtoholiday/static/media/decor_1.2d3c03023561f9975a85.avif",
+    "index.html": "/howtoholiday/index.html",
+    "main.78019513.css.map": "/howtoholiday/static/css/main.78019513.css.map",
+    "main.13fe9318.js.map": "/howtoholiday/static/js/main.13fe9318.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78019513.css",
+    "static/js/main.13fe9318.js"
+  ]
+}
